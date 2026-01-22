@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Alejandro 👋
 
-<!--
-**AleGazzano/AleGazzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me enfoco en SQL y bases de datos, desarrollando proyectos prácticos
+en MySQL con una fuerte orientación al orden, la claridad y las buenas prácticas.
 
-Here are some ideas to get you started:
+Actualmente estoy construyendo un portfolio técnico de bases de datos,
+como parte de un proceso de formación continua y crecimiento profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Enfoque actual
+- SQL (consultas, joins, subqueries)
+- Modelado de bases de datos relacionales
+- MySQL
+- Git / GitHub
+- Documentación de proyectos
+
+## 📂 Proyectos
+En este perfil voy a ir publicando progresivamente proyectos prácticos
+orientados a bases de datos, con foco en la correcta estructuración
+y explicación de cada desarrollo.
+
+## 🎯 Objetivo
+Consolidar un perfil junior orientado a SQL y bases de datos,
+con proyectos reales, bien documentados y defendibles.
